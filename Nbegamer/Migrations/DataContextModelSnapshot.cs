@@ -154,14 +154,14 @@ namespace Nbegamer.Migrations
 
                     b.HasKey("UserID");
 
-                    b.ToTable("Users");
+                    b.ToTable("Userss");
 
                     b.HasData(
                         new
                         {
                             UserID = 1,
                             IsActive = true,
-                            JoinDate = new DateTime(2022, 4, 16, 23, 43, 54, 608, DateTimeKind.Local).AddTicks(1092),
+                            JoinDate = new DateTime(2022, 4, 17, 12, 52, 18, 259, DateTimeKind.Local).AddTicks(835),
                             LastLoginIP = "111.111.111.111",
                             ProfilePicture = "1.jpg",
                             UserEmail = "snpsujon93@gmail.com",

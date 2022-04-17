@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\MVC Project\\Nbegamer\\Nbegamer\\Nbegamer.csproj": {}
+    "F:\\Sujon\\GamingShops\\Nbegamer\\Nbegamer.csproj": {}
   },
   "projects": {
-    "D:\\Project\\MVC Project\\Nbegamer\\Nbegamer\\Nbegamer.csproj": {
+    "F:\\Sujon\\GamingShops\\Nbegamer\\Nbegamer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\MVC Project\\Nbegamer\\Nbegamer\\Nbegamer.csproj",
+        "projectUniqueName": "F:\\Sujon\\GamingShops\\Nbegamer\\Nbegamer.csproj",
         "projectName": "Nbegamer",
-        "projectPath": "D:\\Project\\MVC Project\\Nbegamer\\Nbegamer\\Nbegamer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\MVC Project\\Nbegamer\\Nbegamer\\obj\\",
+        "projectPath": "F:\\Sujon\\GamingShops\\Nbegamer\\Nbegamer.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "F:\\Sujon\\GamingShops\\Nbegamer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

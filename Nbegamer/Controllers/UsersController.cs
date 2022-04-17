@@ -65,11 +65,11 @@ namespace Nbegamer.Controllers
         [HttpPost]
         public IActionResult Loginl(User user)
         {
-            var suser = _context.Users.Where(x => x.UserEmail == user.UserEmail && x.UserPassword == user.UserPassword).FirstOrDefault();
+            var suser = _context.Userss.Where(x => x.UserEmail == user.UserEmail && x.UserPassword == user.UserPassword).FirstOrDefault();
             if(suser != null)
             {
                 suser.LastLoginIP = user.LastLoginIP;
-                _context.Users.Update(suser);
+                _context.Userss.Update(suser);
                 _context.SaveChanges();
                 return RedirectToAction("Signup");
             }
